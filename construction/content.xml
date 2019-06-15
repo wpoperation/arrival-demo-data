@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.1.1" created="2019-03-17 13:29" -->
+	<!-- generator="WordPress/5.2.1" created="2019-06-15 07:43" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Construction</title>
 	<link>https://demo.wpoperation.com/arrival/demo-two</link>
 	<description>Best Construction Services</description>
-	<pubDate>Sun, 17 Mar 2019 13:29:07 +0000</pubDate>
+	<pubDate>Sat, 15 Jun 2019 07:43:37 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demo.wpoperation.com/arrival/</wp:base_site_url>
@@ -147,23 +147,20 @@
 	</wp:term>
 			<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[footer-menu]]></wp:term_slug><wp:term_name><![CDATA[footer menu]]></wp:term_name>
 </wp:term>
-	<wp:term><wp:term_id>3</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary]]></wp:term_slug><wp:term_name><![CDATA[Primary]]></wp:term_name>
+	<wp:term><wp:term_id>3</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-menu]]></wp:term_slug><wp:term_name><![CDATA[Main Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.1.1</generator>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 
 		<item>
-		<title>
-				arrival-black-small		</title>
+		<title>arrival-black-small</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/arrival-black-small/</link>
 		<pubDate>Tue, 13 Mar 2018 15:35:11 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2018/03/arrival-black-small.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>8</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-13 15:35:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-13 15:35:11]]></wp:post_date_gmt>
@@ -187,17 +184,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				arrival-white-small		</title>
+		<title>arrival-white-small</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/arrival-white-small/</link>
 		<pubDate>Tue, 13 Mar 2018 15:35:12 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2018/03/arrival-white-small.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-13 15:35:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-13 15:35:12]]></wp:post_date_gmt>
@@ -221,17 +215,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				Creative flat lay design of workspace desk with laptop, notebook		</title>
+		<title>Creative flat lay design of workspace desk with laptop, notebook</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/creative-flat-lay-design-of-workspace-desk-with-laptop-notebook/</link>
 		<pubDate>Tue, 13 Mar 2018 15:36:04 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2018/03/145.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[Creative flat lay design of workspace desk with laptop, notebook, smartphone and coffee with copy space background]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[Creative flat lay design of workspace desk with laptop, notebook, smartphone and coffee with copy space background]]></excerpt:encoded>
 		<wp:post_id>10</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-13 15:36:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-13 15:36:04]]></wp:post_date_gmt>
@@ -255,17 +246,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				building-3440		</title>
+		<title>building-3440</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/building-3440/</link>
 		<pubDate>Tue, 13 Mar 2018 15:52:37 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2018/03/building-3440.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>12</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-13 15:52:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-13 15:52:37]]></wp:post_date_gmt>
@@ -289,17 +277,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				155642-OUET3T-397		</title>
+		<title>155642-OUET3T-397</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/155642-ouet3t-397/</link>
 		<pubDate>Sat, 17 Mar 2018 07:29:23 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2018/03/155642-OUET3T-397.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>13</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-17 07:29:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-17 07:29:23]]></wp:post_date_gmt>
@@ -323,17 +308,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				pexels-photo-531880		</title>
+		<title>pexels-photo-531880</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/pexels-photo-531880/</link>
 		<pubDate>Sat, 17 Mar 2018 08:01:04 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2018/03/pexels-photo-531880.jpeg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>14</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-17 08:01:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-17 08:01:04]]></wp:post_date_gmt>
@@ -357,17 +339,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				Processed with VSCO with e5 preset		</title>
+		<title>Processed with VSCO with e5 preset</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/processed-with-vsco-with-e5-preset/</link>
 		<pubDate>Sat, 17 Mar 2018 08:34:59 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2018/03/pexels-photo-131054.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[Processed with VSCO with e5 preset]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[Processed with VSCO with e5 preset]]></excerpt:encoded>
 		<wp:post_id>20</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-17 08:34:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-17 08:34:59]]></wp:post_date_gmt>
@@ -391,17 +370,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				logo_01		</title>
+		<title>logo_01</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/logo_01/</link>
 		<pubDate>Sat, 17 Mar 2018 09:08:33 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2018/03/logo_01.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>24</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-17 09:08:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-17 09:08:33]]></wp:post_date_gmt>
@@ -425,17 +401,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				logo_02		</title>
+		<title>logo_02</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/logo_02/</link>
 		<pubDate>Sat, 17 Mar 2018 09:08:33 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2018/03/logo_02.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>25</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-17 09:08:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-17 09:08:33]]></wp:post_date_gmt>
@@ -459,17 +432,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				logo_03		</title>
+		<title>logo_03</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/logo_03/</link>
 		<pubDate>Sat, 17 Mar 2018 09:08:34 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2018/03/logo_03.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>26</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-17 09:08:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-17 09:08:34]]></wp:post_date_gmt>
@@ -493,17 +463,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				logo_04		</title>
+		<title>logo_04</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/logo_04/</link>
 		<pubDate>Sat, 17 Mar 2018 09:08:35 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2018/03/logo_04.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>27</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-17 09:08:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-17 09:08:35]]></wp:post_date_gmt>
@@ -527,17 +494,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				logo_05		</title>
+		<title>logo_05</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/logo_05/</link>
 		<pubDate>Sat, 17 Mar 2018 09:08:35 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2018/03/logo_05.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>28</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-17 09:08:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-17 09:08:35]]></wp:post_date_gmt>
@@ -561,17 +525,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				logo_06		</title>
+		<title>logo_06</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/logo_06/</link>
 		<pubDate>Sat, 17 Mar 2018 09:08:36 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2018/03/logo_06.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>29</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-17 09:08:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-17 09:08:36]]></wp:post_date_gmt>
@@ -595,17 +556,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				logo_07		</title>
+		<title>logo_07</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/logo_07/</link>
 		<pubDate>Sat, 17 Mar 2018 09:08:36 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2018/03/logo_07.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>30</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-17 09:08:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-17 09:08:36]]></wp:post_date_gmt>
@@ -629,17 +587,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				logo_08		</title>
+		<title>logo_08</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/logo_08/</link>
 		<pubDate>Sat, 17 Mar 2018 09:08:37 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2018/03/logo_08.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>31</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-17 09:08:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-17 09:08:37]]></wp:post_date_gmt>
@@ -663,17 +618,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				construction-mens		</title>
+		<title>construction-mens</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/home/construction-mens/</link>
 		<pubDate>Sat, 23 Feb 2019 10:55:13 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/02/construction-mens.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>51</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-23 10:55:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-23 10:55:13]]></wp:post_date_gmt>
@@ -697,17 +649,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				cons-about		</title>
+		<title>cons-about</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/home/cons-about/</link>
 		<pubDate>Sat, 23 Feb 2019 11:20:56 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/02/cons-about.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>72</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-23 11:20:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-23 11:20:56]]></wp:post_date_gmt>
@@ -731,17 +680,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				womenn		</title>
+		<title>womenn</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/home/womenn/</link>
 		<pubDate>Sat, 23 Feb 2019 11:44:07 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/02/womenn.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>77</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-23 11:44:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-23 11:44:07]]></wp:post_date_gmt>
@@ -765,17 +711,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				icon-2		</title>
+		<title>icon-2</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/home/icon-2/</link>
 		<pubDate>Sat, 23 Feb 2019 11:51:21 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/02/icon-2.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>83</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-23 11:51:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-23 11:51:21]]></wp:post_date_gmt>
@@ -799,17 +742,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				equip-ico		</title>
+		<title>equip-ico</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/home/equip-ico/</link>
 		<pubDate>Sat, 23 Feb 2019 11:56:57 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/02/equip-ico.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>88</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-23 11:56:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-23 11:56:57]]></wp:post_date_gmt>
@@ -833,17 +773,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				ico-cons		</title>
+		<title>ico-cons</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/home/ico-cons/</link>
 		<pubDate>Sat, 23 Feb 2019 11:57:25 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/02/ico-cons.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>89</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-23 11:57:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-23 11:57:25]]></wp:post_date_gmt>
@@ -867,17 +804,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				edit-cos		</title>
+		<title>edit-cos</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/home/edit-cos/</link>
 		<pubDate>Sat, 23 Feb 2019 11:57:58 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/02/edit-cos.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>90</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-23 11:57:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-23 11:57:58]]></wp:post_date_gmt>
@@ -901,17 +835,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				bg		</title>
+		<title>bg</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/home/bg/</link>
 		<pubDate>Sat, 23 Feb 2019 12:15:59 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/02/bg.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>98</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-23 12:15:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-23 12:15:59]]></wp:post_date_gmt>
@@ -935,17 +866,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				lg6		</title>
+		<title>lg6</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/home/lg6/</link>
 		<pubDate>Sun, 24 Feb 2019 16:55:07 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/02/lg6.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>132</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-24 16:55:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-24 16:55:07]]></wp:post_date_gmt>
@@ -969,17 +897,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				lg5		</title>
+		<title>lg5</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/home/lg5/</link>
 		<pubDate>Sun, 24 Feb 2019 16:58:09 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/02/lg5.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>133</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-24 16:58:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-24 16:58:09]]></wp:post_date_gmt>
@@ -1003,17 +928,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				lg4		</title>
+		<title>lg4</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/home/lg4/</link>
 		<pubDate>Sun, 24 Feb 2019 16:58:19 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/02/lg4.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>134</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-24 16:58:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-24 16:58:19]]></wp:post_date_gmt>
@@ -1037,17 +959,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				lg3		</title>
+		<title>lg3</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/home/lg3/</link>
 		<pubDate>Sun, 24 Feb 2019 16:58:26 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/02/lg3.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>135</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-24 16:58:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-24 16:58:26]]></wp:post_date_gmt>
@@ -1071,17 +990,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				lg2		</title>
+		<title>lg2</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/home/lg2/</link>
 		<pubDate>Sun, 24 Feb 2019 16:58:32 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/02/lg2.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>136</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-24 16:58:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-24 16:58:32]]></wp:post_date_gmt>
@@ -1105,17 +1021,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				lg1		</title>
+		<title>lg1</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/home/lg1/</link>
 		<pubDate>Sun, 24 Feb 2019 16:58:54 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/02/lg1.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>137</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-24 16:58:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-24 16:58:54]]></wp:post_date_gmt>
@@ -1139,17 +1052,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				constructo-logo-yelow1		</title>
+		<title>constructo-logo-yelow1</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/constructo-logo-yelow1/</link>
 		<pubDate>Sun, 24 Feb 2019 17:10:47 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/02/constructo-logo-yelow1.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>144</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-24 17:10:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-24 17:10:47]]></wp:post_date_gmt>
@@ -1173,17 +1083,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				arrival-construction		</title>
+		<title>arrival-construction</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/arrival-construction/</link>
 		<pubDate>Sun, 24 Feb 2019 18:02:49 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/02/arrival-construction.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>163</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-24 18:02:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-24 18:02:49]]></wp:post_date_gmt>
@@ -1207,17 +1114,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				arrival-constructionn		</title>
+		<title>arrival-constructionn</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/arrival-constructionn/</link>
 		<pubDate>Sun, 24 Feb 2019 18:03:33 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/02/arrival-constructionn.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>165</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-24 18:03:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-24 18:03:33]]></wp:post_date_gmt>
@@ -1241,17 +1145,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				arrival-construction1		</title>
+		<title>arrival-construction1</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/arrival-construction1/</link>
 		<pubDate>Sun, 24 Feb 2019 18:05:33 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/02/arrival-construction1.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>167</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-24 18:05:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-24 18:05:33]]></wp:post_date_gmt>
@@ -1275,17 +1176,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				arrival-constructionn1		</title>
+		<title>arrival-constructionn1</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/arrival-constructionn1/</link>
 		<pubDate>Sun, 24 Feb 2019 18:06:59 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/02/arrival-constructionn1.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>169</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-24 18:06:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-24 18:06:59]]></wp:post_date_gmt>
@@ -1309,17 +1207,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				arrival-cnst		</title>
+		<title>arrival-cnst</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/arrival-cnst/</link>
 		<pubDate>Sun, 24 Feb 2019 18:11:04 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/02/arrival-cnst.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>171</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-24 18:11:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-24 18:11:04]]></wp:post_date_gmt>
@@ -1343,17 +1238,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				arrival-cnstr		</title>
+		<title>arrival-cnstr</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/arrival-cnstr/</link>
 		<pubDate>Sun, 24 Feb 2019 18:13:23 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/02/arrival-cnstr.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>173</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-24 18:13:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-24 18:13:23]]></wp:post_date_gmt>
@@ -1377,17 +1269,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				cons-women		</title>
+		<title>cons-women</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/home/cons-women/</link>
 		<pubDate>Sun, 24 Feb 2019 18:20:31 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/02/cons-women.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>177</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-24 18:20:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-24 18:20:31]]></wp:post_date_gmt>
@@ -1411,17 +1300,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				cons12		</title>
+		<title>cons12</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/our-vision-of-todays-stock-markets-and-possible/cons12/</link>
 		<pubDate>Wed, 13 Mar 2019 02:16:14 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/03/cons12.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>225</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-13 02:16:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-13 02:16:14]]></wp:post_date_gmt>
@@ -1445,17 +1331,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				cons-gal32		</title>
+		<title>cons-gal32</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/our-vision-of-todays-stock-markets-and-possible/cons-gal32/</link>
 		<pubDate>Wed, 13 Mar 2019 02:16:15 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/03/cons-gal32.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>226</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-13 02:16:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-13 02:16:15]]></wp:post_date_gmt>
@@ -1479,17 +1362,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				package4-1		</title>
+		<title>package4-1</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/?attachment_id=247</link>
 		<pubDate>Sun, 17 Mar 2019 11:11:20 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/03/package4-1-1.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>247</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-17 11:11:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-17 11:11:20]]></wp:post_date_gmt>
@@ -1513,15 +1393,13 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				Home		</title>
+		<title>Home</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/</link>
 		<pubDate>Tue, 13 Mar 2018 15:28:00 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/?page_id=6</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[<h2>We Provide All Type Of Construction Services</h2>		
+		<content:encoded><![CDATA[<h2>We Provide All Type Of Construction Services</h2>		
 		We have provided complete remodeling and construction solutions for residential and commercial properties in cities.		
 			<a href="#" role="button">
 						Get Appointment
@@ -1580,9 +1458,8 @@ quisquam est, qui dolorem ipsum quia dolor.
 										<img width="400" height="200" src="https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/02/lg4.png" alt="" srcset="https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/02/lg4.png 400w, https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/02/lg4-300x150.png 300w" sizes="(min-width: 960px) 75vw, 100vw" />											
 										<img width="400" height="200" src="https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/02/lg3.png" alt="" srcset="https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/02/lg3.png 400w, https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/02/lg3-300x150.png 300w" sizes="(min-width: 960px) 75vw, 100vw" />											
 										<img width="400" height="200" src="https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/02/lg2.png" alt="" srcset="https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/02/lg2.png 400w, https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/02/lg2-300x150.png 300w" sizes="(min-width: 960px) 75vw, 100vw" />											
-										<img width="400" height="200" src="https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/02/lg1.png" alt="" srcset="https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/02/lg1.png 400w, https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/02/lg1-300x150.png 300w" sizes="(min-width: 960px) 75vw, 100vw" />]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+										<img width="400" height="200" src="https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/02/lg1.png" alt="" srcset="https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/02/lg1.png 400w, https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/02/lg1-300x150.png 300w" sizes="(min-width: 960px) 75vw, 100vw" />]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>6</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-13 15:28:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-13 15:28:00]]></wp:post_date_gmt>
@@ -1629,17 +1506,14 @@ quisquam est, qui dolorem ipsum quia dolor.
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				Terms &amp; Conditions		</title>
+		<title>Terms &amp; Conditions</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/terms-conditions/</link>
 		<pubDate>Sat, 17 Mar 2018 09:14:30 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/?p=34</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>34</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-17 09:14:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-17 09:14:30]]></wp:post_date_gmt>
@@ -1687,17 +1561,14 @@ quisquam est, qui dolorem ipsum quia dolor.
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				Support		</title>
+		<title>Support</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/support/</link>
 		<pubDate>Sat, 17 Mar 2018 09:14:30 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/?p=35</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>35</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-17 09:14:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-17 09:14:30]]></wp:post_date_gmt>
@@ -1745,17 +1616,14 @@ quisquam est, qui dolorem ipsum quia dolor.
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				Documentation		</title>
+		<title>Documentation</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/documentation/</link>
 		<pubDate>Sat, 17 Mar 2018 09:14:30 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/?p=36</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>36</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-17 09:14:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-17 09:14:30]]></wp:post_date_gmt>
@@ -1803,17 +1671,14 @@ quisquam est, qui dolorem ipsum quia dolor.
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				Demo		</title>
+		<title>Demo</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/demo/</link>
 		<pubDate>Sat, 17 Mar 2018 09:14:30 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/?p=37</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>37</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-17 09:14:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-17 09:14:30]]></wp:post_date_gmt>
@@ -1861,17 +1726,14 @@ quisquam est, qui dolorem ipsum quia dolor.
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				Contact Us		</title>
+		<title>Contact Us</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/contact-us/</link>
 		<pubDate>Sat, 23 Feb 2019 10:41:38 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/?page_id=42</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>42</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-23 10:41:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-23 10:41:38]]></wp:post_date_gmt>
@@ -1884,19 +1746,20 @@ quisquam est, qui dolorem ipsum quia dolor.
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[ultra_seven_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
-		<title>
-						</title>
+		<title></title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/150/</link>
 		<pubDate>Sun, 24 Feb 2019 17:36:28 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/?p=150</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[ ]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>150</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-24 17:36:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-24 17:36:28]]></wp:post_date_gmt>
@@ -1909,7 +1772,7 @@ quisquam est, qui dolorem ipsum quia dolor.
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -1944,17 +1807,14 @@ quisquam est, qui dolorem ipsum quia dolor.
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				Projects		</title>
+		<title>Projects</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/projects/</link>
 		<pubDate>Sun, 24 Feb 2019 17:36:28 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/?p=151</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>151</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-24 17:36:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-24 17:36:28]]></wp:post_date_gmt>
@@ -1967,7 +1827,7 @@ quisquam est, qui dolorem ipsum quia dolor.
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[151]]></wp:meta_value>
@@ -2002,17 +1862,14 @@ quisquam est, qui dolorem ipsum quia dolor.
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				Teams		</title>
+		<title>Teams</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/teams/</link>
 		<pubDate>Sun, 24 Feb 2019 17:36:28 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/?p=154</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>154</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-24 17:36:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-24 17:36:28]]></wp:post_date_gmt>
@@ -2025,7 +1882,7 @@ quisquam est, qui dolorem ipsum quia dolor.
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
@@ -2060,17 +1917,14 @@ quisquam est, qui dolorem ipsum quia dolor.
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				Demo One		</title>
+		<title>Demo One</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/demo-one/</link>
 		<pubDate>Mon, 25 Feb 2019 02:55:48 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/?p=183</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>183</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-25 02:55:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-25 02:55:48]]></wp:post_date_gmt>
@@ -2083,7 +1937,7 @@ quisquam est, qui dolorem ipsum quia dolor.
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
@@ -2118,42 +1972,14 @@ quisquam est, qui dolorem ipsum quia dolor.
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				Blogs		</title>
-		<link>https://demo.wpoperation.com/arrival/demo-two/blogs/</link>
-		<pubDate>Wed, 13 Mar 2019 02:07:55 +0000</pubDate>
-		<dc:creator><![CDATA[WPoperation]]></dc:creator>
-		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/?page_id=222</guid>
-		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
-		<wp:post_id>222</wp:post_id>
-		<wp:post_date><![CDATA[2019-03-13 02:07:55]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-03-13 02:07:55]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[blogs]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title>
-						</title>
+		<title></title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/224/</link>
 		<pubDate>Wed, 13 Mar 2019 02:08:32 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/?p=224</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[ ]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>224</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-13 02:08:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-13 02:08:32]]></wp:post_date_gmt>
@@ -2166,7 +1992,7 @@ quisquam est, qui dolorem ipsum quia dolor.
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
@@ -2201,42 +2027,14 @@ quisquam est, qui dolorem ipsum quia dolor.
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				Shop		</title>
-		<link>https://demo.wpoperation.com/arrival/demo-two/shop/</link>
-		<pubDate>Sun, 17 Mar 2019 11:02:33 +0000</pubDate>
-		<dc:creator><![CDATA[WPoperation]]></dc:creator>
-		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/shop/</guid>
-		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
-		<wp:post_id>237</wp:post_id>
-		<wp:post_date><![CDATA[2019-03-17 11:02:33]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-03-17 11:02:33]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[shop]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title>
-						</title>
+		<title></title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/243/</link>
 		<pubDate>Sun, 17 Mar 2019 11:04:40 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/?p=243</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[ ]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>243</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-17 11:04:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-17 11:04:40]]></wp:post_date_gmt>
@@ -2249,7 +2047,7 @@ quisquam est, qui dolorem ipsum quia dolor.
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
@@ -2284,17 +2082,14 @@ quisquam est, qui dolorem ipsum quia dolor.
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				cons-cap		</title>
+		<title>cons-cap</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/?attachment_id=248</link>
 		<pubDate>Sun, 17 Mar 2019 11:15:36 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/03/cons-cap.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>248</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-17 11:15:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-17 11:15:36]]></wp:post_date_gmt>
@@ -2318,17 +2113,14 @@ quisquam est, qui dolorem ipsum quia dolor.
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				cut32		</title>
+		<title>cut32</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/?attachment_id=251</link>
 		<pubDate>Sun, 17 Mar 2019 11:19:50 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/03/cut32.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>251</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-17 11:19:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-17 11:19:50]]></wp:post_date_gmt>
@@ -2352,17 +2144,14 @@ quisquam est, qui dolorem ipsum quia dolor.
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				meter12		</title>
+		<title>meter12</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/?attachment_id=254</link>
 		<pubDate>Sun, 17 Mar 2019 11:22:36 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/03/meter12.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>254</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-17 11:22:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-17 11:22:36]]></wp:post_date_gmt>
@@ -2386,17 +2175,14 @@ quisquam est, qui dolorem ipsum quia dolor.
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				meter-tape2		</title>
+		<title>meter-tape2</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/?attachment_id=256</link>
 		<pubDate>Sun, 17 Mar 2019 11:25:21 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/03/meter-tape2.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>256</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-17 11:25:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-17 11:25:21]]></wp:post_date_gmt>
@@ -2420,17 +2206,14 @@ quisquam est, qui dolorem ipsum quia dolor.
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				tool-bx		</title>
+		<title>tool-bx</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/?attachment_id=258</link>
 		<pubDate>Sun, 17 Mar 2019 11:27:23 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/03/tool-bx.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>258</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-17 11:27:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-17 11:27:23]]></wp:post_date_gmt>
@@ -2454,17 +2237,14 @@ quisquam est, qui dolorem ipsum quia dolor.
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				box-tool		</title>
+		<title>box-tool</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/?attachment_id=260</link>
 		<pubDate>Sun, 17 Mar 2019 11:28:31 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/03/box-tool.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>260</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-17 11:28:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-17 11:28:31]]></wp:post_date_gmt>
@@ -2488,81 +2268,82 @@ quisquam est, qui dolorem ipsum quia dolor.
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				Hello world!		</title>
-		<link>https://demo.wpoperation.com/arrival/demo-two/hello-world__trashed/</link>
-		<pubDate>Tue, 13 Mar 2018 15:12:19 +0000</pubDate>
-		<dc:creator><![CDATA[WPoperation]]></dc:creator>
-		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/?p=1</guid>
+		<title>woocommerce-placeholder</title>
+		<link>https://demo.wpoperation.com/arrival/demo-two/woocommerce-placeholder/</link>
+		<pubDate>Wed, 17 Apr 2019 15:57:36 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/04/woocommerce-placeholder.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[Welcome to <a href="http://demo.wpoperation.com/arrival/">Arrival Sites</a>. This is your first post. Edit or delete it, then start blogging!]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
-		<wp:post_id>1</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-13 15:12:19]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-03-13 15:12:19]]></wp:post_date_gmt>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>265</wp:post_id>
+		<wp:post_date><![CDATA[2019-04-17 15:57:36]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-04-17 15:57:36]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-world__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[woocommerce-placeholder]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/woocommerce-placeholder.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[woocommerce-placeholder.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1551884446]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1200;s:6:"height";i:1200;s:4:"file";s:27:"woocommerce-placeholder.png";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:35:"woocommerce-placeholder-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:35:"woocommerce-placeholder-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:35:"woocommerce-placeholder-768x768.png";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:37:"woocommerce-placeholder-1024x1024.png";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";}s:23:"arrival-blog-list-thumb";a:4:{s:4:"file";s:35:"woocommerce-placeholder-800x800.png";s:5:"width";i:800;s:6:"height";i:800;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>1</wp:comment_id>
-			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
-			<wp:comment_author_url>http://demo.wpoperation.com/arrival/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2018-03-13 15:12:19]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2018-03-13 15:12:19]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					</item>
+							</item>
 					<item>
-		<title>
-				Our Vision of Today`s Stock Markets and Possible		</title>
+		<title>breadc_bg</title>
+		<link>https://demo.wpoperation.com/arrival/demo-two/breadc_bg/</link>
+		<pubDate>Wed, 08 May 2019 16:24:54 +0000</pubDate>
+		<dc:creator><![CDATA[WPoperation]]></dc:creator>
+		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/05/breadc_bg.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>274</wp:post_id>
+		<wp:post_date><![CDATA[2019-05-08 16:24:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-05-08 16:24:54]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[breadc_bg]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.wpoperation.com/arrival/demo-two/wp-content/uploads/sites/3/2019/05/breadc_bg.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:950;s:4:"file";s:21:"2019/05/breadc_bg.jpg";s:5:"sizes";a:12:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"breadc_bg-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"breadc_bg-300x148.jpg";s:5:"width";i:300;s:6:"height";i:148;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:21:"breadc_bg-768x380.jpg";s:5:"width";i:768;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:22:"breadc_bg-1024x507.jpg";s:5:"width";i:1024;s:6:"height";i:507;s:9:"mime-type";s:10:"image/jpeg";}s:23:"arrival-blog-list-thumb";a:4:{s:4:"file";s:21:"breadc_bg-800x800.jpg";s:5:"width";i:800;s:6:"height";i:800;s:9:"mime-type";s:10:"image/jpeg";}s:26:"arrival-blog-masonry-thumb";a:4:{s:4:"file";s:21:"breadc_bg-520x345.jpg";s:5:"width";i:520;s:6:"height";i:345;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:21:"breadc_bg-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:21:"breadc_bg-600x297.jpg";s:5:"width";i:600;s:6:"height";i:297;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:21:"breadc_bg-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:21:"breadc_bg-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:21:"breadc_bg-600x297.jpg";s:5:"width";i:600;s:6:"height";i:297;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:21:"breadc_bg-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/05/breadc_bg.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Our Vision of Today`s Stock Markets and Possible</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/our-vision-of-todays-stock-markets-and-possible/</link>
 		<pubDate>Wed, 06 Mar 2019 15:01:34 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/?p=186</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[<!-- wp:paragraph -->
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p> Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.&nbsp; </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
 <blockquote class="wp-block-quote"><p> <br>Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. </p><cite>Robert Alison</cite></blockquote>
-<!-- /wp:quote -->]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+<!-- /wp:quote -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>186</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-06 15:01:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-06 15:01:34]]></wp:post_date_gmt>
@@ -2611,19 +2392,16 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				Business Agencies vs Advertising Agencies		</title>
+		<title>Business Agencies vs Advertising Agencies</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/business-agencies-vs-advertising-agencies/</link>
 		<pubDate>Wed, 06 Mar 2019 15:02:06 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/?p=188</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[<!-- wp:paragraph -->
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p> Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,  <br>Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. </p>
-<!-- /wp:paragraph -->]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>188</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-06 15:02:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-06 15:02:06]]></wp:post_date_gmt>
@@ -2647,23 +2425,20 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				How to Win The Attention of New Clients: Tips &amp; Tricks		</title>
+		<title>How to Win The Attention of New Clients: Tips &amp; Tricks</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/how-to-win-the-attention-of-new-clients-tips-tricks/</link>
 		<pubDate>Wed, 06 Mar 2019 15:02:37 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/?p=190</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[<!-- wp:paragraph -->
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>
 
 &nbsp;Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus.
 
 </p>
-<!-- /wp:paragraph -->]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>190</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-06 15:02:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-06 15:02:37]]></wp:post_date_gmt>
@@ -2704,17 +2479,58 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				Cart		</title>
+		<title>Blogs</title>
+		<link>https://demo.wpoperation.com/arrival/demo-two/blogs/</link>
+		<pubDate>Wed, 13 Mar 2019 02:07:55 +0000</pubDate>
+		<dc:creator><![CDATA[WPoperation]]></dc:creator>
+		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/?page_id=222</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>222</wp:post_id>
+		<wp:post_date><![CDATA[2019-03-13 02:07:55]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-03-13 02:07:55]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[blogs]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title>Shop</title>
+		<link>https://demo.wpoperation.com/arrival/demo-two/shop/</link>
+		<pubDate>Sun, 17 Mar 2019 11:02:33 +0000</pubDate>
+		<dc:creator><![CDATA[WPoperation]]></dc:creator>
+		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/shop/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>237</wp:post_id>
+		<wp:post_date><![CDATA[2019-03-17 11:02:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-03-17 11:02:33]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[shop]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title>Cart</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/cart/</link>
 		<pubDate>Sun, 17 Mar 2019 11:02:33 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/cart/</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[[woocommerce_cart]]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[[woocommerce_cart]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>238</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-17 11:02:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-17 11:02:33]]></wp:post_date_gmt>
@@ -2727,19 +2543,20 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[ultra_seven_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
-		<title>
-				Checkout		</title>
+		<title>Checkout</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/checkout/</link>
 		<pubDate>Sun, 17 Mar 2019 11:02:33 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/checkout/</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[[woocommerce_checkout]]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[[woocommerce_checkout]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>239</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-17 11:02:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-17 11:02:33]]></wp:post_date_gmt>
@@ -2754,17 +2571,14 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>
-				My account		</title>
+		<title>My account</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/my-account/</link>
 		<pubDate>Sun, 17 Mar 2019 11:02:33 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/my-account/</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[[woocommerce_my_account]]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[[woocommerce_my_account]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>240</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-17 11:02:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-17 11:02:33]]></wp:post_date_gmt>
@@ -2777,19 +2591,20 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[ultra_seven_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
-		<title>
-				4-PIECE PLIERS SET		</title>
+		<title>4-PIECE PLIERS SET</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/product/4-piece-pliers-set/</link>
 		<pubDate>Sun, 17 Mar 2019 11:04:18 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/?post_type=product&#038;p=241</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue.]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus.]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue.]]></content:encoded>
+		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus.]]></excerpt:encoded>
 		<wp:post_id>241</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-17 11:04:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-17 11:04:18]]></wp:post_date_gmt>
@@ -2942,17 +2757,14 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				Labour Cap		</title>
+		<title>Labour Cap</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/product/labour-cap/</link>
 		<pubDate>Sun, 17 Mar 2019 11:17:57 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/?post_type=product&#038;p=249</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue.]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue.]]></content:encoded>
+		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.]]></excerpt:encoded>
 		<wp:post_id>249</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-17 11:17:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-17 11:17:57]]></wp:post_date_gmt>
@@ -2982,6 +2794,10 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ultra_seven_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
@@ -3105,17 +2921,14 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				Cutting Scissor		</title>
+		<title>Cutting Scissor</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/product/cutting-scissor/</link>
 		<pubDate>Sun, 17 Mar 2019 11:20:07 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/?post_type=product&#038;p=250</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue.]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue.]]></content:encoded>
+		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.]]></excerpt:encoded>
 		<wp:post_id>250</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-17 11:20:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-17 11:20:07]]></wp:post_date_gmt>
@@ -3272,17 +3085,14 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				Item Reference		</title>
+		<title>Item Reference</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/product/item-reference/</link>
 		<pubDate>Sun, 17 Mar 2019 11:23:15 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/?post_type=product&#038;p=253</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue.]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue.]]></content:encoded>
+		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.]]></excerpt:encoded>
 		<wp:post_id>253</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-17 11:23:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-17 11:23:15]]></wp:post_date_gmt>
@@ -3435,17 +3245,14 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				Measuring Tape		</title>
+		<title>Measuring Tape</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/product/measuring-tape/</link>
 		<pubDate>Sun, 17 Mar 2019 11:25:47 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/?post_type=product&#038;p=255</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue.]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue.]]></content:encoded>
+		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.]]></excerpt:encoded>
 		<wp:post_id>255</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-17 11:25:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-17 11:25:47]]></wp:post_date_gmt>
@@ -3461,6 +3268,10 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 										<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[ultra_seven_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
@@ -3598,17 +3409,14 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				Toolbox Set		</title>
+		<title>Toolbox Set</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/product/toolbox-set/</link>
 		<pubDate>Sun, 17 Mar 2019 11:27:36 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/?post_type=product&#038;p=257</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue.]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue.]]></content:encoded>
+		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.]]></excerpt:encoded>
 		<wp:post_id>257</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-17 11:27:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-17 11:27:36]]></wp:post_date_gmt>
@@ -3761,17 +3569,14 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				Set Tools		</title>
+		<title>Set Tools</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/product/set-tools/</link>
 		<pubDate>Sun, 17 Mar 2019 11:28:52 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/?post_type=product&#038;p=259</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue.]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue.]]></content:encoded>
+		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.]]></excerpt:encoded>
 		<wp:post_id>259</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-17 11:28:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-17 11:28:52]]></wp:post_date_gmt>
@@ -3787,6 +3592,10 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 										<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[ultra_seven_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
@@ -3924,17 +3733,14 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				Meter Test		</title>
+		<title>Meter Test</title>
 		<link>https://demo.wpoperation.com/arrival/demo-two/product/meter-test/</link>
 		<pubDate>Sun, 17 Mar 2019 11:31:01 +0000</pubDate>
 		<dc:creator><![CDATA[WPoperation]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/arrival/demo-two/?post_type=product&#038;p=261</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue.]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue.]]></content:encoded>
+		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.]]></excerpt:encoded>
 		<wp:post_id>261</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-17 11:31:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-17 11:31:01]]></wp:post_date_gmt>
@@ -3950,6 +3756,10 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 										<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[ultra_seven_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
