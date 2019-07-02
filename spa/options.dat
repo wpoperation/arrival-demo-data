@@ -1,0 +1,49 @@
+a:4:{s:8:"template";s:7:"arrival";s:4:"mods";a:27:{i:0;b:0;s:18:"nav_menu_locations";a:2:{s:7:"primary";i:16;s:3:"top";i:17;}s:18:"custom_css_post_id";i:105;s:27:"arrival_top_header_bg_color";s:7:"#001c35";s:23:"arrival_nav_font_weight";s:3:"500";s:16:"background_color";s:6:"ffffff";s:24:"arrival_top_header_email";s:19:"example@example.com";s:24:"arrival_top_header_phone";s:13:"+977 123 3123";s:23:"arrival_main_nav_layout";s:4:"full";s:30:"arrival_main_nav_right_content";s:6:"button";s:19:"arrival_theme_color";s:7:"#ec5598";s:24:"arrival_link_color_hover";s:7:"#ec5598";s:29:"arrival_footer_copyright_text";s:27:"All Rights Reserved Arrival";s:20:"arrival_social_icons";s:255:"[{"social_icons":"fa fa-facebook","social_url":"#"},{"social_icons":"fa fa-twitter","social_url":"#"},{"social_icons":"fa fa-youtube","social_url":"#"},{"social_icons":"fa fa-linkedin","social_url":"#"},{"social_icons":"fa fa-instagram","social_url":"#"}]";s:27:"arrival_footer_icons_enable";s:3:"yes";s:25:"arrival_menu_hover_styles";s:16:"hover-layout-two";s:29:"arrival_lazyload_image_enable";s:2:"no";s:32:"arrival_top_right_header_content";s:5:"icons";s:26:"arrival_page_header_layout";s:7:"default";s:26:"arrival_inner_header_image";s:90:"https://demo.wpoperation.com/arrival/spa/wp-content/uploads/sites/8/2019/05/header-img.jpg";s:33:"arrival_inner_header_img_position";s:6:"center";s:38:"arrival_inner_header_image_padding_btm";s:3:"103";s:34:"arrival_breadcrumb_overlay_disable";b:1;s:30:"arrival_main_nav_right_btn_url";s:1:"#";s:27:"arrival_main_nav_menu_align";s:11:"center-menu";s:32:"arrival_main_nav_last_item_align";s:5:"right";s:30:"arrival_main_nav_right_btn_txt";s:17:"Free Consultation";}s:7:"options";a:22:{s:22:"woocommerce_demo_store";s:2:"no";s:29:"woocommerce_demo_store_notice";s:79:"This is a demo store for testing purposes &mdash; no orders shall be fulfilled.";s:29:"woocommerce_shop_page_display";s:0:"";s:36:"woocommerce_category_archive_display";s:0:"";s:35:"woocommerce_default_catalog_orderby";s:10:"menu_order";s:27:"woocommerce_catalog_columns";s:1:"3";s:24:"woocommerce_catalog_rows";i:4;s:30:"woocommerce_single_image_width";s:3:"600";s:33:"woocommerce_thumbnail_image_width";s:3:"300";s:30:"woocommerce_thumbnail_cropping";s:3:"1:1";s:43:"woocommerce_thumbnail_cropping_custom_width";s:1:"4";s:44:"woocommerce_thumbnail_cropping_custom_height";s:1:"3";s:34:"woocommerce_checkout_company_field";s:8:"optional";s:36:"woocommerce_checkout_address_2_field";s:8:"optional";s:32:"woocommerce_checkout_phone_field";s:8:"required";s:46:"woocommerce_checkout_highlight_required_fields";s:3:"yes";s:55:"woocommerce_checkout_terms_and_conditions_checkbox_text";s:44:"I have read and agree to the website [terms]";s:40:"woocommerce_checkout_privacy_policy_text";s:161:"Your personal data will be used to process your order, support your experience throughout this website, and for other purposes described in our [privacy_policy].";s:26:"wp_page_for_privacy_policy";s:1:"0";s:25:"woocommerce_terms_page_id";s:0:"";s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:1396:".beauty-spa-form form .form-inline .form-group {
+    width: calc(50% - 2px);
+    display: inline-block;
+    padding: 0 10px;
+	margin-bottom: 20px;
+}
+.beauty-spa-form form  .form-group {
+    padding: 0 10px;
+}
+.beauty-spa-form form .form-inline .form-group span {
+    display: block;
+}
+.beauty-spa-form form .form-inline .form-group span input.wpcf7-form-control::placeholder,
+.beauty-spa-form form .form-inline textarea::placeholder{
+	color : #767676;
+}
+.beauty-spa-form form .form-inline .form-group span input.wpcf7-form-control,
+.beauty-spa-form form .form-inline .form-group span select{
+    width: 100%;
+    border: 1px solid #bbbbbb;
+    height: 40px;
+    text-align: left;
+    padding: 10px;
+    color: #000000;
+    background-color: #fff;
+	  font-size: 14px;
+}
+.beauty-spa-form form .form-group textarea{
+    width: 100%;
+    border: 1px solid #bbbbbb;
+    height: 150px;
+    text-align: left;
+    padding: 10px;
+    color: #000000;
+    background-color: #fff;
+	  font-size: 14px;
+}
+.beauty-spa-form form .form-group input.wpcf7-form-control.wpcf7-submit{
+	margin: 10px 0 0;
+	background: #ec5598;
+	border-radius: unset;
+}
+.image-wrapper-next .elementor-column-wrap.elementor-element-populated{
+    transition: all 0.3s ease-in-out;
+    background-size: 115%!important;
+}
+.image-wrapper-next:hover .elementor-column-wrap.elementor-element-populated {
+    background-size: 120%!important;
+}";}
