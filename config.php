@@ -53,7 +53,7 @@ $data = array(
 		'home_title'      	=> 'Home',
 		'blog_title'      	=> 'Blogs',
 		'posts_to_show'   	=> '5',
-		'is_shop' 			=> true,
+		'is_shop' 			=> false,
 		'menus'         	=> array(
 			'primary' 	=> 'Main Menu',
 			'top' 		=> 'Top Menu'
@@ -69,11 +69,6 @@ $data = array(
 					'slug'    => 'wpop-elementor-addons',
 					'init'    => 'wpop-elementor-addons/wpop-elementor-addons.php',
 					'name'    => 'Operation Elementor Addons',
-				),
-				array(
-					'slug'    => 'woocommerce',
-					'init'    => 'woocommerce/woocommerce.php',
-					'name'    => 'WooCommerce',
 				),
 				
 			),
