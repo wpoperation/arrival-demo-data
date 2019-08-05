@@ -293,6 +293,72 @@ $data = array(
 		),
 	),
 
+	'charity' => array(
+		'categories'        => array( 'Charity' ),
+		'preview_url' 		=> 'https://demo.wpoperation.com/arrival/charity',
+		'xml_file'        	=> 'content.xml',
+		'theme_settings'  	=> 'options.dat',
+		'widgets_file'    	=> 'widgets.wie',
+		'home_title'      	=> 'Home',
+		'blog_title'      	=> 'blogs',
+		'posts_to_show'   	=> '5',
+		'is_shop' 			=> false,
+		'menus'         	=> array(
+			'primary' 	=> 'Primary'
+		),
+		'required_plugins'  => array(
+			'free' 			=> array(
+				array(
+					'slug'    => 'elementor',
+					'init'    => 'elementor/elementor.php',
+					'name'    => 'Elementor',
+				),
+				array(
+					'slug'    => 'wpop-elementor-addons',
+					'init'    => 'wpop-elementor-addons/wpop-elementor-addons.php',
+					'name'    => 'Operation Elementor Addons',
+				),
+				array(
+					'slug'    => 'contact-form-7',
+					'init'    => 'contact-form-7/wp-contact-form-7.php',
+					'name'    => 'Contact Form 7',
+				),
+			),
+		),
+	),
 
+	'app' => array(
+		'categories'        => array( 'App','One Page' ),
+		'preview_url' 		=> 'https://demo.wpoperation.com/arrival/app',
+		'xml_file'        	=> 'content.xml',
+		'theme_settings'  	=> 'options.dat',
+		'widgets_file'    	=> 'widgets.wie',
+		'home_title'      	=> 'Home',
+		'blog_title'      	=> 'blogs',
+		'posts_to_show'   	=> '5',
+		'is_shop' 			=> false,
+		'menus'         	=> array(
+			'primary' 	=> 'Primary menu'
+		),
+		'required_plugins'  => array(
+			'free' 			=> array(
+				array(
+					'slug'    => 'elementor',
+					'init'    => 'elementor/elementor.php',
+					'name'    => 'Elementor',
+				),
+				array(
+					'slug'    => 'wpop-elementor-addons',
+					'init'    => 'wpop-elementor-addons/wpop-elementor-addons.php',
+					'name'    => 'Operation Elementor Addons',
+				),
+				array(
+					'slug'    => 'contact-form-7',
+					'init'    => 'contact-form-7/wp-contact-form-7.php',
+					'name'    => 'Contact Form 7',
+				),
+			),
+		),
+	),
 
 );
