@@ -29,6 +29,11 @@ $data = array(
 					'init'    => 'wpop-elementor-addons/wpop-elementor-addons.php',
 					'name'    => 'Operation Elementor Addons',
 				),
+              array(
+                'slug'    => 'ultra-companion',
+                'init'    => 'ultra-companion/ultra-companion.php',
+                'name'    => 'Ultra Companion',
+              ),
 				array(
 					'slug'    => 'smart-slider-3',
 					'init'    => 'smart-slider-3/smart-slider-3.php',
@@ -70,7 +75,11 @@ $data = array(
 					'init'    => 'wpop-elementor-addons/wpop-elementor-addons.php',
 					'name'    => 'Operation Elementor Addons',
 				),
-				
+              array(
+                'slug'    => 'ultra-companion',
+                'init'    => 'ultra-companion/ultra-companion.php',
+                'name'    => 'Ultra Companion',
+              ),
 			),
 		),
 	),
@@ -101,7 +110,11 @@ $data = array(
 					'init'    => 'wpop-elementor-addons/wpop-elementor-addons.php',
 					'name'    => 'Operation Elementor Addons',
 				),
-			
+              array(
+                'slug'    => 'ultra-companion',
+                'init'    => 'ultra-companion/ultra-companion.php',
+                'name'    => 'Ultra Companion',
+              ),
 			),
 		),
 	),
@@ -134,6 +147,11 @@ $data = array(
 					'init'    => 'wpop-elementor-addons/wpop-elementor-addons.php',
 					'name'    => 'Operation Elementor Addons',
 				),
+              array(
+                'slug'    => 'ultra-companion',
+                'init'    => 'ultra-companion/ultra-companion.php',
+                'name'    => 'Ultra Companion',
+              ),
 				array(
 					'slug'    => 'smart-slider-3',
 					'init'    => 'smart-slider-3/smart-slider-3.php',
@@ -176,7 +194,11 @@ $data = array(
 					'init'    => 'wpop-elementor-addons/wpop-elementor-addons.php',
 					'name'    => 'Operation Elementor Addons',
 				),
-				
+              array(
+                'slug'    => 'ultra-companion',
+                'init'    => 'ultra-companion/ultra-companion.php',
+                'name'    => 'Ultra Companion',
+              ),
 				array(
 					'slug'    => 'contact-form-7',
 					'init'    => 'contact-form-7/wp-contact-form-7.php',
@@ -213,7 +235,11 @@ $data = array(
 					'init'    => 'wpop-elementor-addons/wpop-elementor-addons.php',
 					'name'    => 'Operation Elementor Addons',
 				),
-				
+              array(
+                'slug'    => 'ultra-companion',
+                'init'    => 'ultra-companion/ultra-companion.php',
+                'name'    => 'Ultra Companion',
+              ),
 				array(
 					'slug'    => 'contact-form-7',
 					'init'    => 'contact-form-7/wp-contact-form-7.php',
@@ -255,7 +281,11 @@ $data = array(
 					'init'    => 'wpop-elementor-addons/wpop-elementor-addons.php',
 					'name'    => 'Operation Elementor Addons',
 				),
-				
+              array(
+                'slug'    => 'ultra-companion',
+                'init'    => 'ultra-companion/ultra-companion.php',
+                'name'    => 'Ultra Companion',
+              ),
 				array(
 					'slug'    => 'contact-form-7',
 					'init'    => 'contact-form-7/wp-contact-form-7.php',
@@ -288,7 +318,11 @@ $data = array(
 					'init'    => 'elementor/elementor.php',
 					'name'    => 'Elementor',
 				),
-			
+              array(
+                'slug'    => 'ultra-companion',
+                'init'    => 'ultra-companion/ultra-companion.php',
+                'name'    => 'Ultra Companion',
+              ),
 			),
 		),
 	),
@@ -318,6 +352,11 @@ $data = array(
 					'init'    => 'wpop-elementor-addons/wpop-elementor-addons.php',
 					'name'    => 'Operation Elementor Addons',
 				),
+              array(
+                'slug'    => 'ultra-companion',
+                'init'    => 'ultra-companion/ultra-companion.php',
+                'name'    => 'Ultra Companion',
+              ),
 				array(
 					'slug'    => 'contact-form-7',
 					'init'    => 'contact-form-7/wp-contact-form-7.php',
@@ -352,13 +391,15 @@ $data = array(
 					'init'    => 'wpop-elementor-addons/wpop-elementor-addons.php',
 					'name'    => 'Operation Elementor Addons',
 				),
-				array(
-					'slug'    => 'contact-form-7',
-					'init'    => 'contact-form-7/wp-contact-form-7.php',
-					'name'    => 'Contact Form 7',
-				),
+              array(
+                'slug'    => 'ultra-companion',
+                'init'    => 'ultra-companion/ultra-companion.php',
+                'name'    => 'Ultra Companion',
+              ),
 			),
 		),
 	),
 
 );
+$file = json_encode($data);
+print_r($file);
