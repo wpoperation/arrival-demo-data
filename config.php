@@ -407,21 +407,21 @@ $data = array(
 		'purchase_link' => 'https://wpoperation.com/cart/?add-to-cart=10539',
 	), 
 	'law' => array(
-		'categories'        => array( 'Law','Pro' ),
+		'categories'        => array( 'Corporate','Pro' ),
 		'preview_url'     => 'https://demo.wpoperation.com/arrival-pro/demo-two/',
 		'is_premium'  => true,
 		'pro_link' => 'https://wpoperation.com/arrival-pro/',
 		'purchase_link' => 'https://wpoperation.com/cart/?add-to-cart=10539',
 	), 
 	'business' => array(
-		'categories'        => array( 'Business','Pro' ),
+		'categories'        => array( 'Corporate','Pro' ),
 		'preview_url'     => 'https://demo.wpoperation.com/arrival-pro/demo-three/',
 		'is_premium'  => true,
 		'pro_link' => 'https://wpoperation.com/arrival-pro/',
 		'purchase_link' => 'https://wpoperation.com/cart/?add-to-cart=10539',
 	), 
 	'hosting' => array(
-		'categories'        => array( 'Hosting','Pro' ),
+		'categories'        => array( 'one Page','Pro' ),
 		'preview_url'     => 'https://demo.wpoperation.com/arrival-pro/demo-four/',
 		'is_premium'  => true,
 		'pro_link' => 'https://wpoperation.com/arrival-pro/',
@@ -449,7 +449,7 @@ $data = array(
 		'purchase_link' => 'https://wpoperation.com/cart/?add-to-cart=10539',
 	), 
 	'gym' => array(
-		'categories'        => array( 'Gym','Pro' ),
+		'categories'        => array( 'Pro' ),
 		'preview_url'     => 'https://demo.wpoperation.com/arrival-pro/gym/',
 		'is_premium'  => true,
 		'pro_link' => 'https://wpoperation.com/arrival-pro/',
