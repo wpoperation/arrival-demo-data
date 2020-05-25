@@ -399,6 +399,70 @@ $data = array(
 			),
 		),
 	),
+	'corporate-pro' => array(
+		'categories'        => array( 'Corporate','Pro' ),
+		'preview_url'     => 'https://demo.wpoperation.com/arrival-pro/demo-one/',
+		'is_premium'  => true,
+		'pro_link' => 'https://wpoperation.com/arrival-pro/',
+		'purchase_link' => 'https://wpoperation.com/cart/?add-to-cart=10539',
+	), 
+	'law' => array(
+		'categories'        => array( 'Law','Pro' ),
+		'preview_url'     => 'https://demo.wpoperation.com/arrival-pro/demo-two/',
+		'is_premium'  => true,
+		'pro_link' => 'https://wpoperation.com/arrival-pro/',
+		'purchase_link' => 'https://wpoperation.com/cart/?add-to-cart=10539',
+	), 
+	'business' => array(
+		'categories'        => array( 'Business','Pro' ),
+		'preview_url'     => 'https://demo.wpoperation.com/arrival-pro/demo-three/',
+		'is_premium'  => true,
+		'pro_link' => 'https://wpoperation.com/arrival-pro/',
+		'purchase_link' => 'https://wpoperation.com/cart/?add-to-cart=10539',
+	), 
+	'hosting' => array(
+		'categories'        => array( 'Hosting','Pro' ),
+		'preview_url'     => 'https://demo.wpoperation.com/arrival-pro/demo-four/',
+		'is_premium'  => true,
+		'pro_link' => 'https://wpoperation.com/arrival-pro/',
+		'purchase_link' => 'https://wpoperation.com/cart/?add-to-cart=10539',
+	), 
+	'corporate2' => array(
+		'categories'        => array( 'Corporate','Pro' ),
+		'preview_url'     => 'https://demo.wpoperation.com/arrival-pro/demo-five/',
+		'is_premium'  => true,
+		'pro_link' => 'https://wpoperation.com/arrival-pro/',
+		'purchase_link' => 'https://wpoperation.com/cart/?add-to-cart=10539',
+	), 
+	'magazine' => array(
+		'categories'        => array( 'Magazine','Pro' ),
+		'preview_url'     => 'https://demo.wpoperation.com/arrival-pro/demo-six/',
+		'is_premium'  => true,
+		'pro_link' => 'https://wpoperation.com/arrival-pro/',
+		'purchase_link' => 'https://wpoperation.com/cart/?add-to-cart=10539',
+	), 
+	'wedding' => array(
+		'categories'        => array( 'Pro' ),
+		'preview_url'     => 'https://demo.wpoperation.com/arrival-pro/wedding/',
+		'is_premium'  => true,
+		'pro_link' => 'https://wpoperation.com/arrival-pro/',
+		'purchase_link' => 'https://wpoperation.com/cart/?add-to-cart=10539',
+	), 
+	'gym' => array(
+		'categories'        => array( 'Gym','Pro' ),
+		'preview_url'     => 'https://demo.wpoperation.com/arrival-pro/gym/',
+		'is_premium'  => true,
+		'pro_link' => 'https://wpoperation.com/arrival-pro/',
+		'purchase_link' => 'https://wpoperation.com/cart/?add-to-cart=10539',
+	), 
+	'barbers' => array(
+		'categories'        => array( 'Pro' ),
+		'preview_url'     => 'https://demo.wpoperation.com/arrival-pro/barbers/',
+		'is_premium'  => true,
+		'pro_link' => 'https://wpoperation.com/arrival-pro/',
+		'purchase_link' => 'https://wpoperation.com/cart/?add-to-cart=10539',
+	), 
+
 
 );
 $file = json_encode($data);
