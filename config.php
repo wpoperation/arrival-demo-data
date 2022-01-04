@@ -8,7 +8,6 @@ $data = array(
 		'xml_file'        	=> 'content.xml',
 		'theme_settings'  	=> 'options.dat',
 		'widgets_file'    	=> 'widgets.wie',
-		'slider_file'       => 'slider.ss3',
 		'home_title'      	=> 'Home',
 		'blog_title'      	=> 'blogs',
 		'posts_to_show'   	=> '5',
@@ -29,16 +28,11 @@ $data = array(
 					'init'    => 'wpop-elementor-addons/wpop-elementor-addons.php',
 					'name'    => 'Operation Elementor Addons',
 				),
-              array(
-                'slug'    => 'ultra-companion',
-                'init'    => 'ultra-companion/ultra-companion.php',
-                'name'    => 'Ultra Companion',
-              ),
-				array(
-					'slug'    => 'smart-slider-3',
-					'init'    => 'smart-slider-3/smart-slider-3.php',
-					'name'    => 'Smart Slider',
-				),
+          array(
+            'slug'    => 'ultra-companion',
+            'init'    => 'ultra-companion/ultra-companion.php',
+            'name'    => 'Ultra Companion',
+          ),
 				array(
 					'slug'    => 'contact-form-7',
 					'init'    => 'contact-form-7/wp-contact-form-7.php',
